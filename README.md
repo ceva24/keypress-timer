@@ -1,2 +1,7 @@
-# keypress-timer
-A simple page that measures tie between keypresses.
+# Keypress Timer
+
+## Description
+
+A simple page that measures time between keypresses.
+
+I needed this feature for some readings as part of another project and figured I'd upload this too.
